@@ -1,0 +1,90 @@
+#products .psproductcountdown .count.curr, #products .psproductcountdown .count.bottom,
+.psproductcountdown .count.curr, .psproductcountdown .count.bottom {
+    display: none;
+}
+.psproductcountdown .hidden {
+    display: none;
+}
+
+#product .psproductcountdown {
+    width: 280px;
+    padding: 10px 0 0 0;
+    text-align: center;
+    background: rgba(255,255,255,0.5);
+    box-shadow: 2px 2px 11px 0px rgba(0, 0, 0, 0.1);
+    margin-bottom: 1rem;
+}
+
+.product-miniature .psproductcountdown {
+}
+.titlecountdown{}
+.titlecountdown h4{
+	font-size:14px;
+	color:#333e48;
+	font-weight:500;
+	margin-bottom:30px;
+}
+.psproductcountdown {
+    padding-bottom: 30px;
+}
+
+.pspc-main .time {
+	margin: 0;
+	display: inline-block;
+	text-align: left;
+	position: relative;
+	border: 1px solid #f2f5f7;
+	padding: 5px;
+	margin-right: 10px;
+	width: 60px;
+	height: 60px;
+	border-radius: 100%;
+	background-color: #f2f5f7;
+}
+.pspc-main .time:last-child{
+	margin-right:0;
+}
+#products .pspc-main .count,
+.pspc-main .count {
+	color: #333e48;
+	display: block;
+	font-size: 14px;
+	line-height: 22px;
+	overflow: hidden;
+	text-align: center;
+	width: 100%;
+	font-weight: 500;
+	position: static;
+	margin-bottom: 0px;
+	padding-top: 5px;
+}
+.pspc-main .seconds .count,
+#products .pspc-main .seconds .count {
+    color: #ff7e00;
+}
+.pspc-main .label {
+	font-size: 12px;
+	display: block;
+	width: 100%;
+	color: #989898;
+	padding: 0;
+	text-align: center;
+	text-transform: capitalize;
+	font-weight: 400;
+	line-height: 1;
+}
+
+@media only screen and (min-width : 992px) and (max-width : 1199px){
+	#products .pspc-main .count, .pspc-main .count{
+        font-size: 16px;
+    }
+    .pspc-main .time{
+        margin-right: 2px;
+    }
+}
+@media only screen and (min-width : 768px) and (max-width : 991px){
+	
+}
+@media only screen and (max-width : 767px){
+	
+}

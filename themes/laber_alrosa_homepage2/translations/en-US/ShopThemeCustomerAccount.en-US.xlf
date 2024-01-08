@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\ps_customersignin\ps_customersignin.tpl" source-language="en-US" target-language="en-US" datatype="plaintext">
+    <body>
+      <trans-unit id="d4151a9a3959bdd43690735737034f27">
+        <source>Log in to your customer account</source>
+        <target>Log in to your customer account</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\ps_customersignin\ps_customersignin.tpl:35</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

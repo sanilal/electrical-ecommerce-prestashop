@@ -1,0 +1,30 @@
+<?php
+
+global $_MODULE;
+$_MODULE = array();
+$_MODULE['<{cmsproducts}prestashop>cmsproducts_57206dc27305060c5c29150d3ad00401'] = 'Aktualizacje mypresta';
+$_MODULE['<{cmsproducts}prestashop>cmsproducts_d7d90723c19e43735e731a36a2739c8b'] = 'sprawdź dostępność aktualizacji';
+$_MODULE['<{cmsproducts}prestashop>cmsproducts_2c872e677f8b5831f20a66c65e7f8966'] = 'Sprawdź';
+$_MODULE['<{cmsproducts}prestashop>cmsproducts_722eb8a4b2d0b1c305d6361bcc7564e7'] = 'Notyfikacje';
+$_MODULE['<{cmsproducts}prestashop>cmsproducts_633703a658469b7fab7f42e04e59d27a'] = '-- wybierz --';
+$_MODULE['<{cmsproducts}prestashop>cmsproducts_2faec1f9f8cc7f8f40d521c4dd574f49'] = 'Włącz';
+$_MODULE['<{cmsproducts}prestashop>cmsproducts_bcfaccebf745acfd5e75351095a5394a'] = 'Wyłącz';
+$_MODULE['<{cmsproducts}prestashop>cmsproducts_cc6fc347e9fd233bddcb7895e307e9a9'] = 'Włącz tę opcję jeżeli chcesz sprawdzać strony mypresta.eu w celu otrzymania informacji o aktualziacji. Opcja wyświetli notyfikacje w zapleczu sklepu gdy tylko pojawi się nowa wersja modułu.';
+$_MODULE['<{cmsproducts}prestashop>cmsproducts_0d24168598880003b80f9e85b8e1d62a'] = 'Strona modułu';
+$_MODULE['<{cmsproducts}prestashop>cmsproducts_07ac9eab57de962a9518a7545fd475fe'] = 'To jest bezpośredni link do strony modułu gdzie można przeczytać aktualny log zmian w module.';
+$_MODULE['<{cmsproducts}prestashop>cmsproducts_c9cc8cce247e49bae79f15173ce97354'] = 'Zapisz';
+$_MODULE['<{cmsproducts}prestashop>cmsproducts_4c73ce9e52a25c69cf0dce126d548f98'] = 'Nowa wersja dostępna. Szczegóły na mypresta.eu';
+$_MODULE['<{cmsproducts}prestashop>cmsproducts_af02b06496e83946e73e69d774782654'] = 'Nowa wersja dostępna!';
+$_MODULE['<{cmsproducts}prestashop>cmsproducts_358a5fcb448d507b41d7c0a83485973a'] = 'Moduł jest aktualny!';
+$_MODULE['<{cmsproducts}prestashop>cmsproducts_9daf1fb753b42c3cdc8f1d01669cd6d8'] = 'Zapisz';
+$_MODULE['<{cmsproducts}prestashop>cmsproducts_037f12bd995417125196b0eacdfd5d47'] = 'Ustawienia widoczności';
+$_MODULE['<{cmsproducts}prestashop>cmsproducts_d4b8a235cb30179876d48c5ccbef7c5a'] = 'Ukryj wszystkie shortcode oraz produkty';
+$_MODULE['<{cmsproducts}prestashop>cmsproducts_bafd7322c6e97d25b6299b5d6fe8920b'] = 'Nie';
+$_MODULE['<{cmsproducts}prestashop>cmsproducts_93cba07454f06a4a960172bbd6e2a435'] = 'Tak';
+$_MODULE['<{cmsproducts}prestashop>cmsproducts_9c087dcc3c8fd0d7e71cbbf2759ba7dd'] = 'Jak używać modułu?';
+$_MODULE['<{cmsproducts}prestashop>cmsproducts_51ec3c676f500322c8e27bc1cdc1639b'] = 'Przeczytaj instrukcje na temat korzystania z modułu:';
+$_MODULE['<{cmsproducts}prestashop>cmsproducts_184e0fd7a94969fcefae06c9ed711238'] = 'Jak korzystać z modułu ?';
+$_MODULE['<{cmsproducts}prestashop>cmsproducts_c948a645583c460e8b209123267a0b58'] = 'Wybierz podsekcję konfiguracji modułu z menu po lewej stronie';
+$_MODULE['<{cmsproducts}prestashop>cmsproducts_24c9a580ff22cda9435023d893e53155'] = 'Jak korzystać?';
+$_MODULE['<{cmsproducts}prestashop>cmsproducts_9ac41b6a577daadd588f0fcde0071e8b'] = 'Aktualizacje';
+$_MODULE['<{cmsproducts}prestashop>cmsproducts_3db4890fcc78d1d703ca24eb7b1a5e35'] = 'Wersja profesjonalna modułu';

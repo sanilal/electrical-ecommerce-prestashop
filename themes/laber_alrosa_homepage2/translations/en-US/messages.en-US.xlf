@@ -1,0 +1,935 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\blockwishlist\blockwishlist.tpl" source-language="en-US" target-language="en-US" datatype="plaintext">
+    <body>
+      <trans-unit id="4a84e5921e203aede886d04fc41a414b">
+        <source>remove this product from my wishlist</source>
+        <target>remove this product from my wishlist</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\blockwishlist\blockwishlist.tpl:38</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\labvegamenu\views\templates\admin\build_menu.tpl" source-language="en-US" target-language="en-US" datatype="plaintext">
+    <body>
+      <trans-unit id="f2a6c498fb90ee345d997f888fce3b18">
+        <source>Delete</source>
+        <target>Delete</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\labvegamenu\views\templates\admin\build_menu.tpl:39</note>
+      </trans-unit>
+      <trans-unit id="a70367aa7cb74e510f4f9413ccf059d3">
+        <source>Row</source>
+        <target>Row</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\labvegamenu\views\templates\admin\build_menu.tpl:38</note>
+      </trans-unit>
+      <trans-unit id="4dbab9feedb1a717f2c0879932c4db10">
+        <source>Add Column</source>
+        <target>Add Column</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\labvegamenu\views\templates\admin\build_menu.tpl:47</note>
+      </trans-unit>
+      <trans-unit id="bae5906bfb7292324d4893e26a68b23e">
+        <source>Delete Colum</source>
+        <target>Delete Colum</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\labvegamenu\views\templates\admin\build_menu.tpl:53</note>
+      </trans-unit>
+      <trans-unit id="23bd150cc37fb504a0ced157e441cfda">
+        <source>Edit Column</source>
+        <target>Edit Column</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\labvegamenu\views\templates\admin\build_menu.tpl:58</note>
+      </trans-unit>
+      <trans-unit id="20771f8851efd2ac7510f7ecba19bec6">
+        <source>Add new Item</source>
+        <target>Add new Item</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\labvegamenu\views\templates\admin\build_menu.tpl:63</note>
+      </trans-unit>
+      <trans-unit id="95a480afa92aff31772402b042f11491">
+        <source>Edit Item</source>
+        <target>Edit Item</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\labvegamenu\views\templates\admin\build_menu.tpl:74</note>
+      </trans-unit>
+      <trans-unit id="499824e5fde79fb2a8b57f602fac72c4">
+        <source>delete Item</source>
+        <target>delete Item</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\labvegamenu\views\templates\admin\build_menu.tpl:77</note>
+      </trans-unit>
+      <trans-unit id="97f08a40f22a625d0cbfe03db3349108">
+        <source>Product ID</source>
+        <target>Product ID</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\labvegamenu\views\templates\admin\build_menu.tpl:87</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\blockwishlist\views\templates\front\view.tpl" source-language="en-US" target-language="en-US" datatype="plaintext">
+    <body>
+      <trans-unit id="4b7d496eedb665d0b5f589f2f874e7cb">
+        <source>Product detail</source>
+        <target>Product detail</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\blockwishlist\views\templates\front\view.tpl:84</note>
+      </trans-unit>
+      <trans-unit id="641254d77e7a473aa5910574f3f9453c">
+        <source>Wishlist</source>
+        <target>Wishlist</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\blockwishlist\views\templates\front\view.tpl:29</note>
+      </trans-unit>
+      <trans-unit id="694e8d1f2ee056f98ee488bdc4982d73">
+        <source>Quantity</source>
+        <target>Quantity</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\blockwishlist\views\templates\front\view.tpl:92</note>
+      </trans-unit>
+      <trans-unit id="502996d9790340c5fd7b86a5b93b1c9f">
+        <source>Priority</source>
+        <target>Priority</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\blockwishlist\views\templates\front\view.tpl:100</note>
+      </trans-unit>
+      <trans-unit id="4351cfebe4b61d8aa5efa1d020710005">
+        <source>View</source>
+        <target>View</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\blockwishlist\views\templates\front\view.tpl:123</note>
+      </trans-unit>
+      <trans-unit id="315356f4c2ed70df345ffc01021f7f56">
+        <source>Other wishlists of %1s %2s:</source>
+        <target>Other wishlists of %1s %2s:</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\blockwishlist\views\templates\front\view.tpl:34</note>
+      </trans-unit>
+      <trans-unit id="2d0f6b8300be19cf35e89e66f0677f95">
+        <source>Add to cart</source>
+        <target>Add to cart</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\blockwishlist\views\templates\front\view.tpl:115</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\blockwishlist\blockwishlist-ajax.tpl" source-language="en-US" target-language="en-US" datatype="plaintext">
+    <body>
+      <trans-unit id="d037160cfb1fa5520563302d3a32630a">
+        <source>You must create a wishlist before adding products</source>
+        <target>You must create a wishlist before adding products</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\blockwishlist\blockwishlist-ajax.tpl:43</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\blockwishlist\views\templates\front\managewishlist.tpl" source-language="en-US" target-language="en-US" datatype="plaintext">
+    <body>
+      <trans-unit id="09dc02ecbb078868a3a86dded030076d">
+        <source>No products</source>
+        <target>No products</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\blockwishlist\views\templates\front\managewishlist.tpl:214</note>
+      </trans-unit>
+      <trans-unit id="f78674b9c6b19504756230c57f6aec38">
+        <source>Close this wishlist</source>
+        <target>Close this wishlist</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\blockwishlist\views\templates\front\managewishlist.tpl:140</note>
+      </trans-unit>
+      <trans-unit id="0ac1aeb2429db494dd42ad2dc219ca7e">
+        <source>Hide products</source>
+        <target>Hide products</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\blockwishlist\views\templates\front\managewishlist.tpl:18</note>
+      </trans-unit>
+      <trans-unit id="0de9d09a36e820f9da7e87ab3678dd12">
+        <source>Show products</source>
+        <target>Show products</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\blockwishlist\views\templates\front\managewishlist.tpl:21</note>
+      </trans-unit>
+      <trans-unit id="fec1ea0ef1fbf423779b008e02656612">
+        <source>Hide bought products' info</source>
+        <target>Hide bought products' info</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\blockwishlist\views\templates\front\managewishlist.tpl:19</note>
+      </trans-unit>
+      <trans-unit id="5f19267fc018cd182ef65e2c3d0ab35e">
+        <source>Show bought products' info</source>
+        <target>Show bought products' info</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\blockwishlist\views\templates\front\managewishlist.tpl:22</note>
+      </trans-unit>
+      <trans-unit id="8725214cdd9f9af24e914b5da135793d">
+        <source>Permalink</source>
+        <target>Permalink</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\blockwishlist\views\templates\front\managewishlist.tpl:28</note>
+      </trans-unit>
+      <trans-unit id="30820a1bf6a285e45cda2beda3d7738d">
+        <source>Send this wishlist</source>
+        <target>Send this wishlist</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\blockwishlist\views\templates\front\managewishlist.tpl:34</note>
+      </trans-unit>
+      <trans-unit id="655d20c1ca69519ca647684edbb2db35">
+        <source>High</source>
+        <target>High</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\blockwishlist\views\templates\front\managewishlist.tpl:91</note>
+      </trans-unit>
+      <trans-unit id="87f8a6ab85c9ced3702b4ea641ad4bb5">
+        <source>Medium</source>
+        <target>Medium</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\blockwishlist\views\templates\front\managewishlist.tpl:94</note>
+      </trans-unit>
+      <trans-unit id="28d0edd045e05cf5af64e35ae0c4c6ef">
+        <source>Low</source>
+        <target>Low</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\blockwishlist\views\templates\front\managewishlist.tpl:97</note>
+      </trans-unit>
+      <trans-unit id="521cf5d189bc7b0a56b961f9a1b30d13">
+        <source>Move to a wishlist</source>
+        <target>Move to a wishlist</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\blockwishlist\views\templates\front\managewishlist.tpl:109</note>
+      </trans-unit>
+      <trans-unit id="6bc362dbf494c61ea117fe3c71ca48a5">
+        <source>Move</source>
+        <target>Move</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\blockwishlist\views\templates\front\managewishlist.tpl:110</note>
+      </trans-unit>
+      <trans-unit id="b0424997af9b394387a4d1036ef7a368">
+        <source><![CDATA[printf('Move to %s',$_smarty_tpl->tpl_vars['wishlist']->value['name']]]></source>
+        <target><![CDATA[printf('Move to %s',$_smarty_tpl->tpl_vars['wishlist']->value['name']]]></target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\blockwishlist\views\templates\front\managewishlist.tpl:119</note>
+      </trans-unit>
+      <trans-unit id="ce8ae9da5b7cd6c3df2929543a9af92d">
+        <source>Email</source>
+        <target>Email</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\blockwishlist\views\templates\front\managewishlist.tpl:150</note>
+      </trans-unit>
+      <trans-unit id="19f823c6453c2b1ffd09cb715214813d">
+        <source>Required field</source>
+        <target>Required field</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\blockwishlist\views\templates\front\managewishlist.tpl:162</note>
+      </trans-unit>
+      <trans-unit id="3384622e86410fd01fa318fedc6a98ce">
+        <source>Offered by</source>
+        <target>Offered by</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\blockwishlist\views\templates\front\managewishlist.tpl:172</note>
+      </trans-unit>
+      <trans-unit id="44749712dbec183e983dcd78a7736c41">
+        <source>Date</source>
+        <target>Date</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\blockwishlist\views\templates\front\managewishlist.tpl:173</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\blockwishlist\blockwishlist-extra.tpl" source-language="en-US" target-language="en-US" datatype="plaintext">
+    <body>
+      <trans-unit id="2d96bb66d8541a89620d3c158ceef42b">
+        <source>Add to wishlist</source>
+        <target>Add to wishlist</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\blockwishlist\blockwishlist-extra.tpl:43</note>
+      </trans-unit>
+      <trans-unit id="15b94c64c4d5a4f7172e5347a36b94fd">
+        <source>Add to my wishlist</source>
+        <target>Add to my wishlist</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\blockwishlist\blockwishlist-extra.tpl:41</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\blockwishlist\my-account.tpl" source-language="en-US" target-language="en-US" datatype="plaintext">
+    <body>
+      <trans-unit id="7ec9cceb94985909c6994e95c31c1aa8">
+        <source>My wishlists</source>
+        <target>My wishlists</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\blockwishlist\my-account.tpl:29</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\blockwishlist\views\templates\front\mywishlist.tpl" source-language="en-US" target-language="en-US" datatype="plaintext">
+    <body>
+      <trans-unit id="c9cc8cce247e49bae79f15173ce97354">
+        <source>Save</source>
+        <target>Save</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\blockwishlist\views\templates\front\mywishlist.tpl:55</note>
+      </trans-unit>
+      <trans-unit id="9ead913c5b7c87efda39ca9640c46ae4">
+        <source>There are %d errors</source>
+        <target>There are %d errors</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\blockwishlist\views\templates\front\mywishlist.tpl:31</note>
+      </trans-unit>
+      <trans-unit id="5fbddd8d4e0d8c7a868272f2f171df09">
+        <source>There is %d error</source>
+        <target>There is %d error</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\blockwishlist\views\templates\front\mywishlist.tpl:31</note>
+      </trans-unit>
+      <trans-unit id="0557fa923dcee4d0f86b1409f5c2167f">
+        <source>Back</source>
+        <target>Back</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\blockwishlist\views\templates\front\mywishlist.tpl:38</note>
+      </trans-unit>
+      <trans-unit id="06c335f27f292a096a9bf39e3a58e97b">
+        <source>New wishlist</source>
+        <target>New wishlist</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\blockwishlist\views\templates\front\mywishlist.tpl:45</note>
+      </trans-unit>
+      <trans-unit id="03ab340b3f99e03cff9e84314ead38c0">
+        <source>Qty</source>
+        <target>Qty</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\blockwishlist\views\templates\front\mywishlist.tpl:66</note>
+      </trans-unit>
+      <trans-unit id="5e729042e30967c9d6f65c6eab73e2fe">
+        <source>Viewed</source>
+        <target>Viewed</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\blockwishlist\views\templates\front\mywishlist.tpl:67</note>
+      </trans-unit>
+      <trans-unit id="0eceeb45861f9585dd7a97a3e36f85c6">
+        <source>Created</source>
+        <target>Created</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\blockwishlist\views\templates\front\mywishlist.tpl:68</note>
+      </trans-unit>
+      <trans-unit id="45284ef16392f85ff424b2ef36ab5948">
+        <source>Direct Link</source>
+        <target>Direct Link</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\blockwishlist\views\templates\front\mywishlist.tpl:69</note>
+      </trans-unit>
+      <trans-unit id="7a1920d61156abc05a60135aefe8bc67">
+        <source>Default</source>
+        <target>Default</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\blockwishlist\views\templates\front\mywishlist.tpl:70</note>
+      </trans-unit>
+      <trans-unit id="d025259319054206be54336a00defe89">
+        <source>Do you really want to delete this wishlist ?</source>
+        <target>Do you really want to delete this wishlist ?</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\blockwishlist\views\templates\front\mywishlist.tpl:114</note>
+      </trans-unit>
+      <trans-unit id="0b3db27bc15f682e92ff250ebb167d4b">
+        <source>Back to Your Account</source>
+        <target>Back to Your Account</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\blockwishlist\views\templates\front\mywishlist.tpl:129</note>
+      </trans-unit>
+      <trans-unit id="8cf04a9734132302f96da8e113e80ce5">
+        <source>Home</source>
+        <target>Home</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\blockwishlist\views\templates\front\mywishlist.tpl:134</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\productcomments\productcomments.tpl" source-language="en-US" target-language="en-US" datatype="plaintext">
+    <body>
+      <trans-unit id="94966d90747b97d1f0f206c98a8b1ac3">
+        <source>Send</source>
+        <target>Send</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\productcomments\productcomments.tpl:157</note>
+      </trans-unit>
+      <trans-unit id="ab51a81c76d95ddc762194d58ec5db63">
+        <source>Are you sure that you want to report this comment?</source>
+        <target>Are you sure that you want to report this comment?</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\productcomments\productcomments.tpl:30</note>
+      </trans-unit>
+      <trans-unit id="9a2ccd41653469a8bd94fbb84b271a14">
+        <source>Your comment has been added!</source>
+        <target>Your comment has been added!</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\productcomments\productcomments.tpl:33</note>
+      </trans-unit>
+      <trans-unit id="b20968d9aecd2d075519992e9e2f1ffe">
+        <source>Your comment has been submitted and will be available once approved by a moderator.</source>
+        <target>Your comment has been submitted and will be available once approved by a moderator.</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\productcomments\productcomments.tpl:34</note>
+      </trans-unit>
+      <trans-unit id="186c30cab59f6b64a453778330d4bbf0">
+        <source>New comment</source>
+        <target>New comment</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\productcomments\productcomments.tpl:35</note>
+      </trans-unit>
+      <trans-unit id="e0aa021e21dddbd6d8cecec71e9cf564">
+        <source>OK</source>
+        <target>OK</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\productcomments\productcomments.tpl:36</note>
+      </trans-unit>
+      <trans-unit id="34e80a799d144cfe4af46815e103f017">
+        <source>Reviews</source>
+        <target>Reviews</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\productcomments\productcomments.tpl:41</note>
+      </trans-unit>
+      <trans-unit id="7966126831926ad29c528b239d69f855">
+        <source>Write your review</source>
+        <target>Write your review</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\productcomments\productcomments.tpl:121</note>
+      </trans-unit>
+      <trans-unit id="4b3b9db8c9784468094acde0f8bf7071">
+        <source>Grade</source>
+        <target>Grade</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\productcomments\productcomments.tpl:55</note>
+      </trans-unit>
+      <trans-unit id="b5c82723bd85856358f9a376bc613998">
+        <source>%1$d out of %2$d people found this review useful.</source>
+        <target>%1$d out of %2$d people found this review useful.</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\productcomments\productcomments.tpl:75</note>
+      </trans-unit>
+      <trans-unit id="39630ad6ee79b8653ea89194cdb45bec">
+        <source>Was this comment useful to you?</source>
+        <target>Was this comment useful to you?</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\productcomments\productcomments.tpl:79</note>
+      </trans-unit>
+      <trans-unit id="a6105c0a611b41b08f1209506350279e">
+        <source>yes</source>
+        <target>yes</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\productcomments\productcomments.tpl:80</note>
+      </trans-unit>
+      <trans-unit id="7fa3b767c460b54a2be4d49030b349c7">
+        <source>no</source>
+        <target>no</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\productcomments\productcomments.tpl:81</note>
+      </trans-unit>
+      <trans-unit id="28b3b1e564a00f572c5d4e21da986d49">
+        <source>Report abuse</source>
+        <target>Report abuse</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\productcomments\productcomments.tpl:85</note>
+      </trans-unit>
+      <trans-unit id="fbe2625bf3673be380d043a4bf873f28">
+        <source>Be the first to write your review</source>
+        <target>Be the first to write your review</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\productcomments\productcomments.tpl:97</note>
+      </trans-unit>
+      <trans-unit id="08c7d6f84301ee7d0aab0a5f67edc419">
+        <source>No customer reviews for the moment.</source>
+        <target>No customer reviews for the moment.</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\productcomments\productcomments.tpl:100</note>
+      </trans-unit>
+      <trans-unit id="45dacce3e2bc0f7bebde95098b9326a8">
+        <source>Title for your review</source>
+        <target>Title for your review</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\productcomments\productcomments.tpl:142</note>
+      </trans-unit>
+      <trans-unit id="3421ad00975533fbbd5f17d2cb568125">
+        <source>Your review</source>
+        <target>Your review</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\productcomments\productcomments.tpl:145</note>
+      </trans-unit>
+      <trans-unit id="221e705c06e231636fdbccfdd14f4d5c">
+        <source>Your name</source>
+        <target>Your name</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\productcomments\productcomments.tpl:149</note>
+      </trans-unit>
+      <trans-unit id="70397c4b252a5168c5ec003931cea215">
+        <source>Required fields</source>
+        <target>Required fields</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\productcomments\productcomments.tpl:155</note>
+      </trans-unit>
+      <trans-unit id="e81c4e4f2b7b93b481e13a8553c2ae1b">
+        <source>or</source>
+        <target>or</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\productcomments\productcomments.tpl:158</note>
+      </trans-unit>
+      <trans-unit id="ea4788705e6873b424c65e91c2846b19">
+        <source>Cancel</source>
+        <target>Cancel</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\productcomments\productcomments.tpl:158</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\psproductcountdown\views\templates\admin\countdowns_list.tpl" source-language="en-US" target-language="en-US" datatype="plaintext">
+    <body>
+      <trans-unit id="deb10517653c255364175796ace3553f">
+        <source>Product</source>
+        <target>Product</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\psproductcountdown\views\templates\admin\countdowns_list.tpl:28</note>
+      </trans-unit>
+      <trans-unit id="49ee3087348e8d44e1feda1917443987">
+        <source>Name</source>
+        <target>Name</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\psproductcountdown\views\templates\admin\countdowns_list.tpl:29</note>
+      </trans-unit>
+      <trans-unit id="7dce122004969d56ae2e0245cb754d35">
+        <source>Edit</source>
+        <target>Edit</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\psproductcountdown\views\templates\admin\countdowns_list.tpl:63</note>
+      </trans-unit>
+      <trans-unit id="f7404270cf253ca91869be8cb35b6d79">
+        <source>Countdown list</source>
+        <target>Countdown list</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\psproductcountdown\views\templates\admin\countdowns_list.tpl:18</note>
+      </trans-unit>
+      <trans-unit id="26fd5cd787db2b9710e9922863af57f3">
+        <source>List of manually added countdown timers (not from specific prices)</source>
+        <target>List of manually added countdown timers (not from specific prices)</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\psproductcountdown\views\templates\admin\countdowns_list.tpl:21</note>
+      </trans-unit>
+      <trans-unit id="29e1d11a7a69e1a51852e29602494ca4">
+        <source>"Inactive" status means that countdown is expired or not started yet.</source>
+        <target>"Inactive" status means that countdown is expired or not started yet.</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\psproductcountdown\views\templates\admin\countdowns_list.tpl:21</note>
+      </trans-unit>
+      <trans-unit id="5da618e8e4b89c66fe86e32cdafde142">
+        <source>From</source>
+        <target>From</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\psproductcountdown\views\templates\admin\countdowns_list.tpl:30</note>
+      </trans-unit>
+      <trans-unit id="e12167aa0a7698e6ebc92b4ce3909b53">
+        <source>To</source>
+        <target>To</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\psproductcountdown\views\templates\admin\countdowns_list.tpl:31</note>
+      </trans-unit>
+      <trans-unit id="46a2a41cc6e552044816a2d04634545d">
+        <source>State</source>
+        <target>State</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\psproductcountdown\views\templates\admin\countdowns_list.tpl:32</note>
+      </trans-unit>
+      <trans-unit id="06df33001c1d7187fdd81ea1f5b277aa">
+        <source>Actions</source>
+        <target>Actions</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\psproductcountdown\views\templates\admin\countdowns_list.tpl:33</note>
+      </trans-unit>
+      <trans-unit id="00d23a76e43b46dae9ec7aa9dcbebb32">
+        <source>Enabled</source>
+        <target>Enabled</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\psproductcountdown\views\templates\admin\countdowns_list.tpl:46</note>
+      </trans-unit>
+      <trans-unit id="b9f5c797ebbf55adccdd8539a65a0241">
+        <source>Disabled</source>
+        <target>Disabled</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\psproductcountdown\views\templates\admin\countdowns_list.tpl:48</note>
+      </trans-unit>
+      <trans-unit id="3cab03c00dbd11bc3569afa0748013f0">
+        <source>Inactive</source>
+        <target>Inactive</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\psproductcountdown\views\templates\admin\countdowns_list.tpl:51</note>
+      </trans-unit>
+      <trans-unit id="1063e38cb53d94d386f21227fcd84717">
+        <source>Remove</source>
+        <target>Remove</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\psproductcountdown\views\templates\admin\countdowns_list.tpl:69</note>
+      </trans-unit>
+      <trans-unit id="1cac40f114f66a7c3dda82636e593a90">
+        <source>Are you sure you want to delete this countdown?</source>
+        <target>Are you sure you want to delete this countdown?</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\psproductcountdown\views\templates\admin\countdowns_list.tpl:88</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\labmanufacture\views\templates\hook\labmanufacture.tpl" source-language="en-US" target-language="en-US" datatype="plaintext">
+    <body>
+      <trans-unit id="1be6f9eb563f3bf85c78b4219bf09de9">
+        <source>Brand</source>
+        <target>Brand</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\labmanufacture\views\templates\hook\labmanufacture.tpl:30</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\labproductfilter\views\templates\admin\list.tpl" source-language="en-US" target-language="en-US" datatype="plaintext">
+    <body>
+      <trans-unit id="8bbfe0ebb2a22ef751e79061e6596f79">
+        <source>Product Filter Group</source>
+        <target>Product Filter Group</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\labproductfilter\views\templates\admin\list.tpl:26</note>
+      </trans-unit>
+      <trans-unit id="e1e4c8c9ccd9fc39c391da4bcd093fb2">
+        <source>Block</source>
+        <target>Block</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\labproductfilter\views\templates\admin\list.tpl:41</note>
+      </trans-unit>
+      <trans-unit id="b9b371458ab7c314f88b81c553f6ce51">
+        <source>Hook</source>
+        <target>Hook</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\labproductfilter\views\templates\admin\list.tpl:44</note>
+      </trans-unit>
+      <trans-unit id="93942ead79be40479de6af00c59e2106">
+        <source>Type Display</source>
+        <target>Type Display</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\labproductfilter\views\templates\admin\list.tpl:47</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\labslideshow\views\templates\admin\_configure\helpers\form\form.tpl" source-language="en-US" target-language="en-US" datatype="plaintext">
+    <body>
+      <trans-unit id="92fbf0e5d97b8afd7e73126b52bdc4bb">
+        <source>Choose a file</source>
+        <target>Choose a file</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\labslideshow\views\templates\admin\_configure\helpers\form\form.tpl:44</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\labslideshow\views\templates\hook\labslideshow.tpl" source-language="en-US" target-language="en-US" datatype="plaintext">
+    <body>
+      <trans-unit id="0a18f0aa51f30f1107495bf639caf16c">
+        <source>Shop Now</source>
+        <target>Shop Now</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\labslideshow\views\templates\hook\labslideshow.tpl:68</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\labslideshow\views\templates\hook\list.tpl" source-language="en-US" target-language="en-US" datatype="plaintext">
+    <body>
+      <trans-unit id="c82324ebbcea34f55627a897b37190e3">
+        <source>Slides list</source>
+        <target>Slides list</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\labslideshow\views\templates\hook\list.tpl:25</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\labthemeoptions\views\templates\front\colortool.tpl" source-language="en-US" target-language="en-US" datatype="plaintext">
+    <body>
+      <trans-unit id="97e5fa3af1580f96c85a03ab00f27518">
+        <source>Mode Layout</source>
+        <target>Mode Layout</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\labthemeoptions\views\templates\front\colortool.tpl:9</note>
+      </trans-unit>
+      <trans-unit id="3cfce651e667ab85486dd42a8185f98a">
+        <source>Box</source>
+        <target>Box</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\labthemeoptions\views\templates\front\colortool.tpl:13</note>
+      </trans-unit>
+      <trans-unit id="e7c770a61dbdf81ca922ae0260e327c1">
+        <source>Wide</source>
+        <target>Wide</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\labthemeoptions\views\templates\front\colortool.tpl:16</note>
+      </trans-unit>
+      <trans-unit id="45e035baf33a8e403766a606457f8b10">
+        <source>Theme color</source>
+        <target>Theme color</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\labthemeoptions\views\templates\front\colortool.tpl:25</note>
+      </trans-unit>
+      <trans-unit id="dddce03739867ad935a78cda255ec4dd">
+        <source>color1</source>
+        <target>color1</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\labthemeoptions\views\templates\front\colortool.tpl:29</note>
+      </trans-unit>
+      <trans-unit id="2c442e61b76cc00acf08a1118eae7852">
+        <source>color2</source>
+        <target>color2</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\labthemeoptions\views\templates\front\colortool.tpl:30</note>
+      </trans-unit>
+      <trans-unit id="79139957320cd67b3fa6be3f429dafc5">
+        <source>color3</source>
+        <target>color3</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\labthemeoptions\views\templates\front\colortool.tpl:32</note>
+      </trans-unit>
+      <trans-unit id="a2fa857196bdc299240294b055f5c9ee">
+        <source>color4</source>
+        <target>color4</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\labthemeoptions\views\templates\front\colortool.tpl:33</note>
+      </trans-unit>
+      <trans-unit id="cff11180f3068b0a8d6de6b21b7546bc">
+        <source>color5</source>
+        <target>color5</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\labthemeoptions\views\templates\front\colortool.tpl:35</note>
+      </trans-unit>
+      <trans-unit id="e992a0705279e07b61544ba1c89cb839">
+        <source>color6</source>
+        <target>color6</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\labthemeoptions\views\templates\front\colortool.tpl:36</note>
+      </trans-unit>
+      <trans-unit id="7c710b81639af14193cd64760c7bf6c4">
+        <source>color7</source>
+        <target>color7</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\labthemeoptions\views\templates\front\colortool.tpl:38</note>
+      </trans-unit>
+      <trans-unit id="a25cdfd327248b83012ca822a0ea21ca">
+        <source>color8</source>
+        <target>color8</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\labthemeoptions\views\templates\front\colortool.tpl:39</note>
+      </trans-unit>
+      <trans-unit id="aefc8d8595f2f2862f52bde4c29a31cb">
+        <source>Background Image body:</source>
+        <target>Background Image body:</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\labthemeoptions\views\templates\front\colortool.tpl:44</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\labvegamenu\views\templates\admin\menu_item.tpl" source-language="en-US" target-language="en-US" datatype="plaintext">
+    <body>
+      <trans-unit id="b8deb806ad854a596d1fd4c9b02a715d">
+        <source>Align Of SubMenu</source>
+        <target>Align Of SubMenu</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\labvegamenu\views\templates\admin\menu_item.tpl:262</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\productcomments\productcomments_reviews.tpl" source-language="en-US" target-language="en-US" datatype="plaintext">
+    <body>
+      <trans-unit id="b782944d163791379988170f3fe449e1">
+        <source><![CDATA[printf('%s Review(s)',$_smarty_tpl->tpl_vars['averageTotal']->value]]></source>
+        <target><![CDATA[printf('%s Review(s)',$_smarty_tpl->tpl_vars['averageTotal']->value]]></target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\productcomments\productcomments_reviews.tpl:49</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\psproductcountdown\views\templates\admin\instructions.tpl" source-language="en-US" target-language="en-US" datatype="plaintext">
+    <body>
+      <trans-unit id="b98b6bac76609063be96a34d4903bce2">
+        <source>Additional instructions</source>
+        <target>Additional instructions</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\psproductcountdown\views\templates\admin\instructions.tpl:18</note>
+      </trans-unit>
+      <trans-unit id="22b3474200aa1a2a398d10d7ee18184a">
+        <source>You can use this custom hook to place a countdown anywhere in your template:</source>
+        <target>You can use this custom hook to place a countdown anywhere in your template:</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\psproductcountdown\views\templates\admin\instructions.tpl:23</note>
+      </trans-unit>
+      <trans-unit id="cd2359be2b437f1c3956ceff359f4f42">
+        <source>Replace X by some product ID</source>
+        <target>Replace X by some product ID</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\psproductcountdown\views\templates\admin\instructions.tpl:25</note>
+      </trans-unit>
+      <trans-unit id="bd605fc36d4f2ac848fc8d1e56264ea4">
+        <source>Here are examples for the most common cases:</source>
+        <target>Here are examples for the most common cases:</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\psproductcountdown\views\templates\admin\instructions.tpl:29</note>
+      </trans-unit>
+      <trans-unit id="efeb369cccbd560588a756610865664c">
+        <source>In</source>
+        <target>In</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\psproductcountdown\views\templates\admin\instructions.tpl:32</note>
+      </trans-unit>
+      <trans-unit id="5ef76d30bf9232902687324b5bfa0bd2">
+        <source>use</source>
+        <target>use</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\psproductcountdown\views\templates\admin\instructions.tpl:32</note>
+      </trans-unit>
+      <trans-unit id="e3b0c9fc34caebe54fdb543ee9b74421">
+        <source>Simply paste that code to some place in your template file.</source>
+        <target>Simply paste that code to some place in your template file.</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\psproductcountdown\views\templates\admin\instructions.tpl:38</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\psproductcountdown\views\templates\admin\pro_features.tpl" source-language="en-US" target-language="en-US" datatype="plaintext">
+    <body>
+      <trans-unit id="07d63d81b6dab4409b5ab28dd12a244f">
+        <source>PRO features</source>
+        <target>PRO features</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\psproductcountdown\views\templates\admin\pro_features.tpl:18</note>
+      </trans-unit>
+      <trans-unit id="a7dd12b1dab17d25467b0b0a4c8d4a92">
+        <source>show</source>
+        <target>show</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\psproductcountdown\views\templates\admin\pro_features.tpl:18</note>
+      </trans-unit>
+      <trans-unit id="ca75936fee4333eed3253e2f02d573c9">
+        <source>Buy a PRO version of this module and get extra customization features</source>
+        <target>Buy a PRO version of this module and get extra customization features</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\psproductcountdown\views\templates\admin\pro_features.tpl:24</note>
+      </trans-unit>
+      <trans-unit id="618160638bbfb9fd834bf4388a085bec">
+        <source>Buy a [1]PRO version[/1] of this module and get extra customization features:</source>
+        <target>Buy a [1]PRO version[/1] of this module and get extra customization features:</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\psproductcountdown\views\templates\admin\pro_features.tpl:26</note>
+      </trans-unit>
+      <trans-unit id="1fa825eabde437ce9c7da47e5320c113">
+        <source>new awesome themes</source>
+        <target>new awesome themes</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\psproductcountdown\views\templates\admin\pro_features.tpl:33</note>
+      </trans-unit>
+      <trans-unit id="7858f63595a45f7e95a17f07c44ace94">
+        <source>options to configure font size, background, colors etc.</source>
+        <target>options to configure font size, background, colors etc.</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\psproductcountdown\views\templates\admin\pro_features.tpl:30</note>
+      </trans-unit>
+      <trans-unit id="d8783babac09c65fbe6e2ac4ebb13a16">
+        <source>options to choose module position in the product list and at the product page</source>
+        <target>options to choose module position in the product list and at the product page</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\psproductcountdown\views\templates\admin\pro_features.tpl:31</note>
+      </trans-unit>
+      <trans-unit id="e7002c19a57c3fc7f9fff56d95b23a45">
+        <source>an option to show countdown over product image in the product list</source>
+        <target>an option to show countdown over product image in the product list</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\psproductcountdown\views\templates\admin\pro_features.tpl:35</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\psproductcountdown\views\templates\admin\support.tpl" source-language="en-US" target-language="en-US" datatype="plaintext">
+    <body>
+      <trans-unit id="db5eb84117d06047c97c9a0191b5fffe">
+        <source>Support</source>
+        <target>Support</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\psproductcountdown\views\templates\admin\support.tpl:18</note>
+      </trans-unit>
+      <trans-unit id="99fa3760d108fdbce0461d017dd62d03">
+        <source>Feel free to ask questions in our official thread on PrestaShop forum. Any feedback would be highly appreciated!</source>
+        <target>Feel free to ask questions in our official thread on PrestaShop forum. Any feedback would be highly appreciated!</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\psproductcountdown\views\templates\admin\support.tpl:23</note>
+      </trans-unit>
+      <trans-unit id="97e7c9a7d06eac006a28bf05467fcc8b">
+        <source>Link</source>
+        <target>Link</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\psproductcountdown\views\templates\admin\support.tpl:24</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\psproductcountdown\views\templates\hook\admin_products_extra17.tpl" source-language="en-US" target-language="en-US" datatype="plaintext">
+    <body>
+      <trans-unit id="0d1ac43f3425d276acbcba8e28fb189d">
+        <source>Enabled:</source>
+        <target>Enabled:</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\psproductcountdown\views\templates\hook\admin_products_extra17.tpl:19</note>
+      </trans-unit>
+      <trans-unit id="93cba07454f06a4a960172bbd6e2a435">
+        <source>Yes</source>
+        <target>Yes</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\psproductcountdown\views\templates\hook\admin_products_extra17.tpl:24</note>
+      </trans-unit>
+      <trans-unit id="bafd7322c6e97d25b6299b5d6fe8920b">
+        <source>No</source>
+        <target>No</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\psproductcountdown\views\templates\hook\admin_products_extra17.tpl:29</note>
+      </trans-unit>
+      <trans-unit id="4e140ba723a03baa6948340bf90e2ef6">
+        <source>Name:</source>
+        <target>Name:</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\psproductcountdown\views\templates\hook\admin_products_extra17.tpl:37</note>
+      </trans-unit>
+      <trans-unit id="dded9ca4fe86a11c3020558ac9802ab1">
+        <source>Display:</source>
+        <target>Display:</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\psproductcountdown\views\templates\hook\admin_products_extra17.tpl:58</note>
+      </trans-unit>
+      <trans-unit id="d98a07f84921b24ee30f86fd8cd85c3c">
+        <source>from</source>
+        <target>from</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\psproductcountdown\views\templates\hook\admin_products_extra17.tpl:95</note>
+      </trans-unit>
+      <trans-unit id="01b6e20344b68835c5ed1ddedf20d531">
+        <source>to</source>
+        <target>to</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\psproductcountdown\views\templates\hook\admin_products_extra17.tpl:96</note>
+      </trans-unit>
+      <trans-unit id="027d635efc93e341524a7b00ba74f7de">
+        <source>Use dates from specific prices:</source>
+        <target>Use dates from specific prices:</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\psproductcountdown\views\templates\hook\admin_products_extra17.tpl:87</note>
+      </trans-unit>
+      <trans-unit id="b5de6a94d766d2ac0b5595bd49b8ed78">
+        <source><![CDATA[Reset & remove]]></source>
+        <target><![CDATA[Reset & remove]]></target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\psproductcountdown\views\templates\hook\admin_products_extra17.tpl:111</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\xipblog\views\templates\front\default\comment-list.tpl" source-language="en-US" target-language="en-US" datatype="plaintext">
+    <body>
+      <trans-unit id="820ce35c4b7acc9fcff07fb3f96544c7">
+        <source>All comments</source>
+        <target>All comments</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\xipblog\views\templates\front\default\comment-list.tpl:3</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

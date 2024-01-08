@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\labvegamenu\views\templates\admin\build_menu.tpl" source-language="en-US" target-language="en-US" datatype="plaintext">
+    <body>
+      <trans-unit id="6ba5755738b20d1af6b85b784d554c7e">
+        <source>Rows Of Menu</source>
+        <target>Rows Of Menu</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\labvegamenu\views\templates\admin\build_menu.tpl:26</note>
+      </trans-unit>
+      <trans-unit id="630f6dc397fe74e52d5189e2c80f282b">
+        <source>Back to list</source>
+        <target>Back to list</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\labvegamenu\views\templates\admin\build_menu.tpl:101</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\labvegamenu\views\templates\admin\list.tpl" source-language="en-US" target-language="en-US" datatype="plaintext">
+    <body>
+      <trans-unit id="7dce122004969d56ae2e0245cb754d35">
+        <source>Edit</source>
+        <target>Edit</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\labvegamenu\views\templates\admin\list.tpl:59</note>
+      </trans-unit>
+      <trans-unit id="a5e99b6ec9a5c66cd5daa527719e6c2a">
+        <source>Menu List</source>
+        <target>Menu List</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\labvegamenu\views\templates\admin\list.tpl:27</note>
+      </trans-unit>
+      <trans-unit id="4cdc1e3ac759b928e506d8c8d59662ee">
+        <source>Build SubMenu</source>
+        <target>Build SubMenu</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\labvegamenu\views\templates\admin\list.tpl:53</note>
+      </trans-unit>
+      <trans-unit id="f2a6c498fb90ee345d997f888fce3b18">
+        <source>Delete</source>
+        <target>Delete</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\labvegamenu\views\templates\admin\list.tpl:64</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\labvegamenu\views\templates\admin\menu_item.tpl" source-language="en-US" target-language="en-US" datatype="plaintext">
+    <body>
+      <trans-unit id="87fb13ce6d2e3e222d3c4f3ff30fa0a1">
+        <source>Menu Item</source>
+        <target>Menu Item</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\labvegamenu\views\templates\admin\menu_item.tpl:26</note>
+      </trans-unit>
+      <trans-unit id="228d3085e8b4f09e3f68301a64656d59">
+        <source>Type Link</source>
+        <target>Type Link</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\labvegamenu\views\templates\admin\menu_item.tpl:29</note>
+      </trans-unit>
+      <trans-unit id="b78a3223503896721cca1303f776159b">
+        <source>Title</source>
+        <target>Title</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\labvegamenu\views\templates\admin\menu_item.tpl:41</note>
+      </trans-unit>
+      <trans-unit id="97e7c9a7d06eac006a28bf05467fcc8b">
+        <source>Link</source>
+        <target>Link</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\labvegamenu\views\templates\admin\menu_item.tpl:71</note>
+      </trans-unit>
+      <trans-unit id="0da89ee79009e87aead2eb080363b016">
+        <source>PrestaShop Link</source>
+        <target>PrestaShop Link</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\labvegamenu\views\templates\admin\menu_item.tpl:100</note>
+      </trans-unit>
+      <trans-unit id="e3e4fb7c4f28b2a74c4aaebfe33fabb3">
+        <source>Show Sub Categories</source>
+        <target>Show Sub Categories</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\labvegamenu\views\templates\admin\menu_item.tpl:121</note>
+      </trans-unit>
+      <trans-unit id="ae1ca42050a83e3f088db858148cba66">
+        <source>Sub Title</source>
+        <target>Sub Title</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\labvegamenu\views\templates\admin\menu_item.tpl:134</note>
+      </trans-unit>
+      <trans-unit id="f49e48f7dee400f63ba686c7fbc57ab3">
+        <source>Type Icon</source>
+        <target>Type Icon</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\labvegamenu\views\templates\admin\menu_item.tpl:164</note>
+      </trans-unit>
+      <trans-unit id="13f4586cfec9eaf06057d02c2038ffc1">
+        <source>Font-Awesome Icon</source>
+        <target>Font-Awesome Icon</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\labvegamenu\views\templates\admin\menu_item.tpl:176</note>
+      </trans-unit>
+      <trans-unit id="d1fecf249376ef459f3c65c52dc1445a">
+        <source>Put class icon of Font-Awesome at :</source>
+        <target>Put class icon of Font-Awesome at :</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\labvegamenu\views\templates\admin\menu_item.tpl:179</note>
+      </trans-unit>
+      <trans-unit id="2f6623b19457ad3aac85cf108d8634dd">
+        <source>Image Icon</source>
+        <target>Image Icon</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\labvegamenu\views\templates\admin\menu_item.tpl:183</note>
+      </trans-unit>
+      <trans-unit id="58be4de806253a6ee411b6c0c99296c7">
+        <source>Add file</source>
+        <target>Add file</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\labvegamenu\views\templates\admin\menu_item.tpl:192</note>
+      </trans-unit>
+      <trans-unit id="a4ffdcf0dc1f31b9acaf295d75b51d00">
+        <source>Top</source>
+        <target>Top</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\labvegamenu\views\templates\admin\menu_item.tpl:265</note>
+      </trans-unit>
+      <trans-unit id="4f1f6016fc9f3f2353c0cc7c67b292bd">
+        <source>Center</source>
+        <target>Center</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\labvegamenu\views\templates\admin\menu_item.tpl:266</note>
+      </trans-unit>
+      <trans-unit id="2ad9d63b69c4a10a5cc9cad923133bc4">
+        <source>Bottom</source>
+        <target>Bottom</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\labvegamenu\views\templates\admin\menu_item.tpl:267</note>
+      </trans-unit>
+      <trans-unit id="dcd8dd824ea0faf9c96b0ce604767f3e">
+        <source>Width Of SubMenu</source>
+        <target>Width Of SubMenu</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\labvegamenu\views\templates\admin\menu_item.tpl:282</note>
+      </trans-unit>
+      <trans-unit id="9bd81329febf6efe22788e03ddeaf0af">
+        <source>Class</source>
+        <target>Class</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\labvegamenu\views\templates\admin\menu_item.tpl:310</note>
+      </trans-unit>
+      <trans-unit id="4d3d769b812b6faa6b76e1a8abaece2d">
+        <source>Active</source>
+        <target>Active</target>
+        <note>Context:
+File: F:\xampp\htdocs\prestashop17422\themes\laber_alrosa_homepage2\modules\labvegamenu\views\templates\admin\menu_item.tpl:316</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

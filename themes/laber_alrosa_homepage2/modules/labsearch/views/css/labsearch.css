@@ -1,0 +1,85 @@
+.laberSearch{}
+.laberSearch .expand-more{
+	display: block;
+	font-size: 20px;
+	position: relative;
+	color: #333333;
+	padding: 20px;
+}
+.laberSearch .expand-more:before {
+    content: '';
+    background-color: #cedae3;
+    width: 1px;
+    height: 12px;
+    position: absolute;
+    top: 24px;
+    right: 0;
+}
+.laberSearch  .laberSearch-i{
+	background: #fff;
+	padding: 30px;
+	border: 1px solid #f0f0f0;
+	left: inherit;
+	right: 0;
+	width: 350px;
+}
+.wrap_search_widget {
+    position: relative;
+}
+#search_popup {
+    position: absolute;
+    left: 0;
+    top: 47px;
+    width: 286px;
+    background: #fff;
+    z-index: 999;
+    box-shadow: 0 0 7px rgba(0,0,0,0.4);
+}
+#search_popup .wrap_item {
+    padding: 10px;
+}
+#search_popup .wrap_item .product {
+    margin-bottom: 10px;
+}
+
+#search_popup .wrap_item .product:last-child {
+    margin-bottom: 0;
+}
+#search_popup .product .search_img {
+    border: 1px solid #ddd;
+    float: left;
+    margin-right: 5%;
+    width: 30%;
+}
+#search_popup .product .search_img:hover {
+    border: 1px solid #777;
+}
+
+#search_popup .product .search_img img{
+    max-width:100%;
+    height: auto;
+}
+
+#search_popup .search_info {
+    float: left;
+    width: 65%;
+}
+
+#search_popup .search_info .product_name {
+    font-size: .875rem;
+    font-weight: 400;
+}
+
+#search_popup .search_info .price {
+    display: block;
+    font-size: .875rem;
+    color: #232323;
+    font-weight: 700;
+    margin-top: 4px;
+}
+@media only screen and (max-width : 767px){
+	.laberSearch .laberSearch-i{
+		left: -100%;
+		right: inherit;
+	}
+}

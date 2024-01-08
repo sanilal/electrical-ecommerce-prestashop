@@ -1,0 +1,235 @@
+[27-Oct-2022 14:53:14 Asia/Dubai] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home1/almeshalights/public_html/vendor/doctrine/orm/lib/Doctrine/ORM/UnitOfWork.php on line 2636
+[27-Oct-2022 14:53:14 Asia/Dubai] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home1/almeshalights/public_html/vendor/doctrine/orm/lib/Doctrine/ORM/UnitOfWork.php on line 2665
+[28-Oct-2022 09:47:27 Asia/Dubai] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home1/almeshalights/public_html/vendor/doctrine/orm/lib/Doctrine/ORM/UnitOfWork.php on line 2636
+[28-Oct-2022 09:47:27 Asia/Dubai] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home1/almeshalights/public_html/vendor/doctrine/orm/lib/Doctrine/ORM/UnitOfWork.php on line 2665
+[28-Oct-2022 10:13:26 Asia/Dubai] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home1/almeshalights/public_html/vendor/doctrine/orm/lib/Doctrine/ORM/UnitOfWork.php on line 2636
+[28-Oct-2022 10:13:26 Asia/Dubai] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home1/almeshalights/public_html/vendor/doctrine/orm/lib/Doctrine/ORM/UnitOfWork.php on line 2665
+[28-Oct-2022 13:08:15 Asia/Dubai] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home1/almeshalights/public_html/vendor/doctrine/orm/lib/Doctrine/ORM/UnitOfWork.php on line 2636
+[28-Oct-2022 13:08:15 Asia/Dubai] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home1/almeshalights/public_html/vendor/doctrine/orm/lib/Doctrine/ORM/UnitOfWork.php on line 2665
+[28-Oct-2022 13:08:22 Asia/Dubai] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1203] User almeshal_pr already has more than 'max_user_connections' active connections in /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOConnection.php:43
+Stack trace:
+#0 /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOConnection.php(43): PDO->__construct('mysql:host=127....', 'almeshal_pr', 'ibG@An]@s&2h', Array)
+#1 /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOMySql/Driver.php(41): Doctrine\DBAL\Driver\PDOConnection->__construct('mysql:host=127....', 'almeshal_pr', 'ibG@An]@s&2h', Array)
+#2 /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Connection.php(360): Doctrine\DBAL\Driver\PDOMySql\Driver->connect(Array, 'almeshal_pr', 'ibG@An]@s&2h', Array)
+#3 /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Connection.php(942): Doctrine\DBAL\Connection->connect()
+#4 /home1/almeshalights/public_html/src/PrestaShopBundle/Kernel/M in /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/AbstractMySQLDriver.php on line 115
+[28-Oct-2022 13:08:22 Asia/Dubai] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1203] User almeshal_pr already has more than 'max_user_connections' active connections in /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOConnection.php:43
+Stack trace:
+#0 /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOConnection.php(43): PDO->__construct('mysql:host=127....', 'almeshal_pr', 'ibG@An]@s&2h', Array)
+#1 /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOMySql/Driver.php(41): Doctrine\DBAL\Driver\PDOConnection->__construct('mysql:host=127....', 'almeshal_pr', 'ibG@An]@s&2h', Array)
+#2 /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Connection.php(360): Doctrine\DBAL\Driver\PDOMySql\Driver->connect(Array, 'almeshal_pr', 'ibG@An]@s&2h', Array)
+#3 /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Connection.php(942): Doctrine\DBAL\Connection->connect()
+#4 /home1/almeshalights/public_html/src/PrestaShopBundle/Kernel/M in /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/AbstractMySQLDriver.php on line 115
+[28-Oct-2022 13:15:47 Asia/Dubai] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home1/almeshalights/public_html/vendor/doctrine/orm/lib/Doctrine/ORM/UnitOfWork.php on line 2636
+[28-Oct-2022 13:15:47 Asia/Dubai] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home1/almeshalights/public_html/vendor/doctrine/orm/lib/Doctrine/ORM/UnitOfWork.php on line 2665
+[28-Oct-2022 14:10:33 Asia/Dubai] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home1/almeshalights/public_html/vendor/doctrine/orm/lib/Doctrine/ORM/UnitOfWork.php on line 2636
+[28-Oct-2022 14:10:33 Asia/Dubai] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home1/almeshalights/public_html/vendor/doctrine/orm/lib/Doctrine/ORM/UnitOfWork.php on line 2665
+[28-Oct-2022 14:12:35 Asia/Dubai] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home1/almeshalights/public_html/vendor/doctrine/orm/lib/Doctrine/ORM/UnitOfWork.php on line 2636
+[28-Oct-2022 14:12:35 Asia/Dubai] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home1/almeshalights/public_html/vendor/doctrine/orm/lib/Doctrine/ORM/UnitOfWork.php on line 2665
+[28-Oct-2022 14:14:37 Asia/Dubai] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home1/almeshalights/public_html/vendor/doctrine/orm/lib/Doctrine/ORM/UnitOfWork.php on line 2636
+[28-Oct-2022 14:14:37 Asia/Dubai] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home1/almeshalights/public_html/vendor/doctrine/orm/lib/Doctrine/ORM/UnitOfWork.php on line 2665
+[28-Oct-2022 14:22:42 Asia/Dubai] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home1/almeshalights/public_html/vendor/doctrine/orm/lib/Doctrine/ORM/UnitOfWork.php on line 2636
+[28-Oct-2022 14:22:42 Asia/Dubai] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home1/almeshalights/public_html/vendor/doctrine/orm/lib/Doctrine/ORM/UnitOfWork.php on line 2665
+[28-Oct-2022 14:38:56 Asia/Dubai] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home1/almeshalights/public_html/vendor/doctrine/orm/lib/Doctrine/ORM/UnitOfWork.php on line 2636
+[28-Oct-2022 14:38:56 Asia/Dubai] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home1/almeshalights/public_html/vendor/doctrine/orm/lib/Doctrine/ORM/UnitOfWork.php on line 2665
+[28-Oct-2022 14:45:01 Asia/Dubai] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home1/almeshalights/public_html/vendor/doctrine/orm/lib/Doctrine/ORM/UnitOfWork.php on line 2636
+[28-Oct-2022 14:45:01 Asia/Dubai] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home1/almeshalights/public_html/vendor/doctrine/orm/lib/Doctrine/ORM/UnitOfWork.php on line 2665
+[28-Oct-2022 14:47:03 Asia/Dubai] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home1/almeshalights/public_html/vendor/doctrine/orm/lib/Doctrine/ORM/UnitOfWork.php on line 2636
+[28-Oct-2022 14:47:03 Asia/Dubai] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home1/almeshalights/public_html/vendor/doctrine/orm/lib/Doctrine/ORM/UnitOfWork.php on line 2665
+[28-Oct-2022 14:51:07 Asia/Dubai] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home1/almeshalights/public_html/vendor/doctrine/orm/lib/Doctrine/ORM/UnitOfWork.php on line 2636
+[28-Oct-2022 14:51:07 Asia/Dubai] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home1/almeshalights/public_html/vendor/doctrine/orm/lib/Doctrine/ORM/UnitOfWork.php on line 2665
+[28-Oct-2022 14:59:15 Asia/Dubai] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home1/almeshalights/public_html/vendor/doctrine/orm/lib/Doctrine/ORM/UnitOfWork.php on line 2636
+[28-Oct-2022 14:59:15 Asia/Dubai] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home1/almeshalights/public_html/vendor/doctrine/orm/lib/Doctrine/ORM/UnitOfWork.php on line 2665
+[28-Oct-2022 15:01:18 Asia/Dubai] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home1/almeshalights/public_html/vendor/doctrine/orm/lib/Doctrine/ORM/UnitOfWork.php on line 2636
+[28-Oct-2022 15:01:18 Asia/Dubai] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home1/almeshalights/public_html/vendor/doctrine/orm/lib/Doctrine/ORM/UnitOfWork.php on line 2665
+[28-Oct-2022 15:07:23 Asia/Dubai] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home1/almeshalights/public_html/vendor/doctrine/orm/lib/Doctrine/ORM/UnitOfWork.php on line 2636
+[28-Oct-2022 15:07:23 Asia/Dubai] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home1/almeshalights/public_html/vendor/doctrine/orm/lib/Doctrine/ORM/UnitOfWork.php on line 2665
+[28-Oct-2022 16:16:16 Asia/Dubai] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home1/almeshalights/public_html/vendor/doctrine/orm/lib/Doctrine/ORM/UnitOfWork.php on line 2636
+[28-Oct-2022 16:16:16 Asia/Dubai] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home1/almeshalights/public_html/vendor/doctrine/orm/lib/Doctrine/ORM/UnitOfWork.php on line 2665
+[28-Oct-2022 16:27:15 Asia/Dubai] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home1/almeshalights/public_html/vendor/doctrine/orm/lib/Doctrine/ORM/UnitOfWork.php on line 2636
+[28-Oct-2022 16:27:15 Asia/Dubai] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home1/almeshalights/public_html/vendor/doctrine/orm/lib/Doctrine/ORM/UnitOfWork.php on line 2665
+[28-Oct-2022 16:55:39 Asia/Dubai] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home1/almeshalights/public_html/vendor/doctrine/orm/lib/Doctrine/ORM/UnitOfWork.php on line 2636
+[28-Oct-2022 16:55:39 Asia/Dubai] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home1/almeshalights/public_html/vendor/doctrine/orm/lib/Doctrine/ORM/UnitOfWork.php on line 2665
+[28-Oct-2022 16:59:43 Asia/Dubai] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home1/almeshalights/public_html/vendor/doctrine/orm/lib/Doctrine/ORM/UnitOfWork.php on line 2636
+[28-Oct-2022 16:59:43 Asia/Dubai] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home1/almeshalights/public_html/vendor/doctrine/orm/lib/Doctrine/ORM/UnitOfWork.php on line 2665
+[28-Oct-2022 17:03:47 Asia/Dubai] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home1/almeshalights/public_html/vendor/doctrine/orm/lib/Doctrine/ORM/UnitOfWork.php on line 2636
+[28-Oct-2022 17:03:47 Asia/Dubai] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home1/almeshalights/public_html/vendor/doctrine/orm/lib/Doctrine/ORM/UnitOfWork.php on line 2665
+[09-Nov-2022 14:53:32 Asia/Dubai] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home1/almeshalights/public_html/vendor/doctrine/orm/lib/Doctrine/ORM/UnitOfWork.php on line 2636
+[09-Nov-2022 14:53:32 Asia/Dubai] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home1/almeshalights/public_html/vendor/doctrine/orm/lib/Doctrine/ORM/UnitOfWork.php on line 2665
+[11-Nov-2022 15:33:29 Asia/Dubai] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home1/almeshalights/public_html/vendor/doctrine/orm/lib/Doctrine/ORM/UnitOfWork.php on line 2636
+[11-Nov-2022 15:33:29 Asia/Dubai] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home1/almeshalights/public_html/vendor/doctrine/orm/lib/Doctrine/ORM/UnitOfWork.php on line 2665
+[03-Jan-2023 10:18:47 Asia/Dubai] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home1/almeshalights/public_html/vendor/doctrine/orm/lib/Doctrine/ORM/UnitOfWork.php on line 2636
+[03-Jan-2023 10:18:47 Asia/Dubai] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home1/almeshalights/public_html/vendor/doctrine/orm/lib/Doctrine/ORM/UnitOfWork.php on line 2665
+[03-Jan-2023 10:29:31 Asia/Dubai] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1203] User almeshal_pr already has more than 'max_user_connections' active connections in /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOConnection.php:43
+Stack trace:
+#0 /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOConnection.php(43): PDO->__construct('mysql:host=127....', 'almeshal_pr', 'ibG@An]@s&2h', Array)
+#1 /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOMySql/Driver.php(41): Doctrine\DBAL\Driver\PDOConnection->__construct('mysql:host=127....', 'almeshal_pr', 'ibG@An]@s&2h', Array)
+#2 /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Connection.php(360): Doctrine\DBAL\Driver\PDOMySql\Driver->connect(Array, 'almeshal_pr', 'ibG@An]@s&2h', Array)
+#3 /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Connection.php(942): Doctrine\DBAL\Connection->connect()
+#4 /home1/almeshalights/public_html/src/PrestaShopBundle/Kernel/M in /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/AbstractMySQLDriver.php on line 115
+[03-Jan-2023 10:29:31 Asia/Dubai] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1203] User almeshal_pr already has more than 'max_user_connections' active connections in /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOConnection.php:43
+Stack trace:
+#0 /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOConnection.php(43): PDO->__construct('mysql:host=127....', 'almeshal_pr', 'ibG@An]@s&2h', Array)
+#1 /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOMySql/Driver.php(41): Doctrine\DBAL\Driver\PDOConnection->__construct('mysql:host=127....', 'almeshal_pr', 'ibG@An]@s&2h', Array)
+#2 /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Connection.php(360): Doctrine\DBAL\Driver\PDOMySql\Driver->connect(Array, 'almeshal_pr', 'ibG@An]@s&2h', Array)
+#3 /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Connection.php(942): Doctrine\DBAL\Connection->connect()
+#4 /home1/almeshalights/public_html/src/PrestaShopBundle/Kernel/M in /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/AbstractMySQLDriver.php on line 115
+[03-Jan-2023 10:29:31 Asia/Dubai] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1203] User almeshal_pr already has more than 'max_user_connections' active connections in /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOConnection.php:43
+Stack trace:
+#0 /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOConnection.php(43): PDO->__construct('mysql:host=127....', 'almeshal_pr', 'ibG@An]@s&2h', Array)
+#1 /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOMySql/Driver.php(41): Doctrine\DBAL\Driver\PDOConnection->__construct('mysql:host=127....', 'almeshal_pr', 'ibG@An]@s&2h', Array)
+#2 /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Connection.php(360): Doctrine\DBAL\Driver\PDOMySql\Driver->connect(Array, 'almeshal_pr', 'ibG@An]@s&2h', Array)
+#3 /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Connection.php(942): Doctrine\DBAL\Connection->connect()
+#4 /home1/almeshalights/public_html/src/PrestaShopBundle/Kernel/M in /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/AbstractMySQLDriver.php on line 115
+[03-Jan-2023 10:29:31 Asia/Dubai] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1203] User almeshal_pr already has more than 'max_user_connections' active connections in /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOConnection.php:43
+Stack trace:
+#0 /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOConnection.php(43): PDO->__construct('mysql:host=127....', 'almeshal_pr', 'ibG@An]@s&2h', Array)
+#1 /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOMySql/Driver.php(41): Doctrine\DBAL\Driver\PDOConnection->__construct('mysql:host=127....', 'almeshal_pr', 'ibG@An]@s&2h', Array)
+#2 /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Connection.php(360): Doctrine\DBAL\Driver\PDOMySql\Driver->connect(Array, 'almeshal_pr', 'ibG@An]@s&2h', Array)
+#3 /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Connection.php(942): Doctrine\DBAL\Connection->connect()
+#4 /home1/almeshalights/public_html/src/PrestaShopBundle/Kernel/M in /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/AbstractMySQLDriver.php on line 115
+[03-Jan-2023 10:29:31 Asia/Dubai] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1203] User almeshal_pr already has more than 'max_user_connections' active connections in /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOConnection.php:43
+Stack trace:
+#0 /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOConnection.php(43): PDO->__construct('mysql:host=127....', 'almeshal_pr', 'ibG@An]@s&2h', Array)
+#1 /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOMySql/Driver.php(41): Doctrine\DBAL\Driver\PDOConnection->__construct('mysql:host=127....', 'almeshal_pr', 'ibG@An]@s&2h', Array)
+#2 /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Connection.php(360): Doctrine\DBAL\Driver\PDOMySql\Driver->connect(Array, 'almeshal_pr', 'ibG@An]@s&2h', Array)
+#3 /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Connection.php(942): Doctrine\DBAL\Connection->connect()
+#4 /home1/almeshalights/public_html/src/PrestaShopBundle/Kernel/M in /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/AbstractMySQLDriver.php on line 115
+[03-Jan-2023 10:29:31 Asia/Dubai] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1203] User almeshal_pr already has more than 'max_user_connections' active connections in /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOConnection.php:43
+Stack trace:
+#0 /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOConnection.php(43): PDO->__construct('mysql:host=127....', 'almeshal_pr', 'ibG@An]@s&2h', Array)
+#1 /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOMySql/Driver.php(41): Doctrine\DBAL\Driver\PDOConnection->__construct('mysql:host=127....', 'almeshal_pr', 'ibG@An]@s&2h', Array)
+#2 /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Connection.php(360): Doctrine\DBAL\Driver\PDOMySql\Driver->connect(Array, 'almeshal_pr', 'ibG@An]@s&2h', Array)
+#3 /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Connection.php(942): Doctrine\DBAL\Connection->connect()
+#4 /home1/almeshalights/public_html/src/PrestaShopBundle/Kernel/M in /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/AbstractMySQLDriver.php on line 115
+[03-Jan-2023 12:18:01 Asia/Dubai] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home1/almeshalights/public_html/vendor/doctrine/orm/lib/Doctrine/ORM/UnitOfWork.php on line 2636
+[03-Jan-2023 12:18:01 Asia/Dubai] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home1/almeshalights/public_html/vendor/doctrine/orm/lib/Doctrine/ORM/UnitOfWork.php on line 2665
+[26-Jan-2023 13:41:37 Asia/Dubai] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home1/almeshalights/public_html/vendor/doctrine/orm/lib/Doctrine/ORM/UnitOfWork.php on line 2636
+[26-Jan-2023 13:41:37 Asia/Dubai] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home1/almeshalights/public_html/vendor/doctrine/orm/lib/Doctrine/ORM/UnitOfWork.php on line 2665
+[26-Jan-2023 13:56:14 Asia/Dubai] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home1/almeshalights/public_html/vendor/doctrine/orm/lib/Doctrine/ORM/UnitOfWork.php on line 2636
+[26-Jan-2023 13:56:14 Asia/Dubai] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home1/almeshalights/public_html/vendor/doctrine/orm/lib/Doctrine/ORM/UnitOfWork.php on line 2665
+[26-Jan-2023 19:21:59 Asia/Dubai] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home1/almeshalights/public_html/vendor/doctrine/orm/lib/Doctrine/ORM/UnitOfWork.php on line 2636
+[26-Jan-2023 19:21:59 Asia/Dubai] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home1/almeshalights/public_html/vendor/doctrine/orm/lib/Doctrine/ORM/UnitOfWork.php on line 2665
+[28-Jan-2023 12:28:45 Asia/Dubai] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home1/almeshalights/public_html/vendor/doctrine/orm/lib/Doctrine/ORM/UnitOfWork.php on line 2636
+[28-Jan-2023 12:28:45 Asia/Dubai] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home1/almeshalights/public_html/vendor/doctrine/orm/lib/Doctrine/ORM/UnitOfWork.php on line 2665
+[28-Jan-2023 12:28:48 Asia/Dubai] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1203] User almeshal_pr already has more than 'max_user_connections' active connections in /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOConnection.php:43
+Stack trace:
+#0 /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOConnection.php(43): PDO->__construct('mysql:host=127....', 'almeshal_pr', 'ibG@An]@s&2h', Array)
+#1 /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOMySql/Driver.php(41): Doctrine\DBAL\Driver\PDOConnection->__construct('mysql:host=127....', 'almeshal_pr', 'ibG@An]@s&2h', Array)
+#2 /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Connection.php(360): Doctrine\DBAL\Driver\PDOMySql\Driver->connect(Array, 'almeshal_pr', 'ibG@An]@s&2h', Array)
+#3 /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Connection.php(942): Doctrine\DBAL\Connection->connect()
+#4 /home1/almeshalights/public_html/src/PrestaShopBundle/Kernel/M in /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/AbstractMySQLDriver.php on line 115
+[28-Jan-2023 12:28:48 Asia/Dubai] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1203] User almeshal_pr already has more than 'max_user_connections' active connections in /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOConnection.php:43
+Stack trace:
+#0 /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOConnection.php(43): PDO->__construct('mysql:host=127....', 'almeshal_pr', 'ibG@An]@s&2h', Array)
+#1 /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOMySql/Driver.php(41): Doctrine\DBAL\Driver\PDOConnection->__construct('mysql:host=127....', 'almeshal_pr', 'ibG@An]@s&2h', Array)
+#2 /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Connection.php(360): Doctrine\DBAL\Driver\PDOMySql\Driver->connect(Array, 'almeshal_pr', 'ibG@An]@s&2h', Array)
+#3 /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Connection.php(942): Doctrine\DBAL\Connection->connect()
+#4 /home1/almeshalights/public_html/src/PrestaShopBundle/Kernel/M in /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/AbstractMySQLDriver.php on line 115
+[28-Jan-2023 12:28:48 Asia/Dubai] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1203] User almeshal_pr already has more than 'max_user_connections' active connections in /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOConnection.php:43
+Stack trace:
+#0 /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOConnection.php(43): PDO->__construct('mysql:host=127....', 'almeshal_pr', 'ibG@An]@s&2h', Array)
+#1 /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOMySql/Driver.php(41): Doctrine\DBAL\Driver\PDOConnection->__construct('mysql:host=127....', 'almeshal_pr', 'ibG@An]@s&2h', Array)
+#2 /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Connection.php(360): Doctrine\DBAL\Driver\PDOMySql\Driver->connect(Array, 'almeshal_pr', 'ibG@An]@s&2h', Array)
+#3 /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Connection.php(942): Doctrine\DBAL\Connection->connect()
+#4 /home1/almeshalights/public_html/src/PrestaShopBundle/Kernel/M in /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/AbstractMySQLDriver.php on line 115
+[28-Jan-2023 12:28:48 Asia/Dubai] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1203] User almeshal_pr already has more than 'max_user_connections' active connections in /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOConnection.php:43
+Stack trace:
+#0 /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOConnection.php(43): PDO->__construct('mysql:host=127....', 'almeshal_pr', 'ibG@An]@s&2h', Array)
+#1 /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOMySql/Driver.php(41): Doctrine\DBAL\Driver\PDOConnection->__construct('mysql:host=127....', 'almeshal_pr', 'ibG@An]@s&2h', Array)
+#2 /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Connection.php(360): Doctrine\DBAL\Driver\PDOMySql\Driver->connect(Array, 'almeshal_pr', 'ibG@An]@s&2h', Array)
+#3 /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Connection.php(942): Doctrine\DBAL\Connection->connect()
+#4 /home1/almeshalights/public_html/src/PrestaShopBundle/Kernel/M in /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/AbstractMySQLDriver.php on line 115
+[10-Jun-2023 15:00:25 Asia/Dubai] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home1/almeshalights/public_html/vendor/doctrine/orm/lib/Doctrine/ORM/UnitOfWork.php on line 2636
+[10-Jun-2023 15:00:25 Asia/Dubai] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home1/almeshalights/public_html/vendor/doctrine/orm/lib/Doctrine/ORM/UnitOfWork.php on line 2665
+[10-Jun-2023 15:00:26 Asia/Dubai] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1203] User almeshal_pr already has more than 'max_user_connections' active connections in /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOConnection.php:43
+Stack trace:
+#0 /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOConnection.php(43): PDO->__construct('mysql:host=127....', 'almeshal_pr', 'ibG@An]@s&2h', Array)
+#1 /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOMySql/Driver.php(41): Doctrine\DBAL\Driver\PDOConnection->__construct('mysql:host=127....', 'almeshal_pr', 'ibG@An]@s&2h', Array)
+#2 /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Connection.php(360): Doctrine\DBAL\Driver\PDOMySql\Driver->connect(Array, 'almeshal_pr', 'ibG@An]@s&2h', Array)
+#3 /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Connection.php(942): Doctrine\DBAL\Connection->connect()
+#4 /home1/almeshalights/public_html/src/PrestaShopBundle/Kernel/M in /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/AbstractMySQLDriver.php on line 115
+[10-Jun-2023 15:00:26 Asia/Dubai] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1203] User almeshal_pr already has more than 'max_user_connections' active connections in /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOConnection.php:43
+Stack trace:
+#0 /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOConnection.php(43): PDO->__construct('mysql:host=127....', 'almeshal_pr', 'ibG@An]@s&2h', Array)
+#1 /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOMySql/Driver.php(41): Doctrine\DBAL\Driver\PDOConnection->__construct('mysql:host=127....', 'almeshal_pr', 'ibG@An]@s&2h', Array)
+#2 /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Connection.php(360): Doctrine\DBAL\Driver\PDOMySql\Driver->connect(Array, 'almeshal_pr', 'ibG@An]@s&2h', Array)
+#3 /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Connection.php(942): Doctrine\DBAL\Connection->connect()
+#4 /home1/almeshalights/public_html/src/PrestaShopBundle/Kernel/M in /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/AbstractMySQLDriver.php on line 115
+[10-Jun-2023 15:00:26 Asia/Dubai] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1203] User almeshal_pr already has more than 'max_user_connections' active connections in /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOConnection.php:43
+Stack trace:
+#0 /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOConnection.php(43): PDO->__construct('mysql:host=127....', 'almeshal_pr', 'ibG@An]@s&2h', Array)
+#1 /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOMySql/Driver.php(41): Doctrine\DBAL\Driver\PDOConnection->__construct('mysql:host=127....', 'almeshal_pr', 'ibG@An]@s&2h', Array)
+#2 /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Connection.php(360): Doctrine\DBAL\Driver\PDOMySql\Driver->connect(Array, 'almeshal_pr', 'ibG@An]@s&2h', Array)
+#3 /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Connection.php(942): Doctrine\DBAL\Connection->connect()
+#4 /home1/almeshalights/public_html/src/PrestaShopBundle/Kernel/M in /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/AbstractMySQLDriver.php on line 115
+[10-Jun-2023 15:00:26 Asia/Dubai] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1203] User almeshal_pr already has more than 'max_user_connections' active connections in /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOConnection.php:43
+Stack trace:
+#0 /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOConnection.php(43): PDO->__construct('mysql:host=127....', 'almeshal_pr', 'ibG@An]@s&2h', Array)
+#1 /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOMySql/Driver.php(41): Doctrine\DBAL\Driver\PDOConnection->__construct('mysql:host=127....', 'almeshal_pr', 'ibG@An]@s&2h', Array)
+#2 /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Connection.php(360): Doctrine\DBAL\Driver\PDOMySql\Driver->connect(Array, 'almeshal_pr', 'ibG@An]@s&2h', Array)
+#3 /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Connection.php(942): Doctrine\DBAL\Connection->connect()
+#4 /home1/almeshalights/public_html/src/PrestaShopBundle/Kernel/M in /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/AbstractMySQLDriver.php on line 115
+[10-Jun-2023 15:00:37 Asia/Dubai] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1203] User almeshal_pr already has more than 'max_user_connections' active connections in /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOConnection.php:43
+Stack trace:
+#0 /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOConnection.php(43): PDO->__construct('mysql:host=127....', 'almeshal_pr', 'ibG@An]@s&2h', Array)
+#1 /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOMySql/Driver.php(41): Doctrine\DBAL\Driver\PDOConnection->__construct('mysql:host=127....', 'almeshal_pr', 'ibG@An]@s&2h', Array)
+#2 /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Connection.php(360): Doctrine\DBAL\Driver\PDOMySql\Driver->connect(Array, 'almeshal_pr', 'ibG@An]@s&2h', Array)
+#3 /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Connection.php(942): Doctrine\DBAL\Connection->connect()
+#4 /home1/almeshalights/public_html/src/PrestaShopBundle/Kernel/M in /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/AbstractMySQLDriver.php on line 115
+[10-Jun-2023 15:00:37 Asia/Dubai] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1203] User almeshal_pr already has more than 'max_user_connections' active connections in /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOConnection.php:43
+Stack trace:
+#0 /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOConnection.php(43): PDO->__construct('mysql:host=127....', 'almeshal_pr', 'ibG@An]@s&2h', Array)
+#1 /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOMySql/Driver.php(41): Doctrine\DBAL\Driver\PDOConnection->__construct('mysql:host=127....', 'almeshal_pr', 'ibG@An]@s&2h', Array)
+#2 /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Connection.php(360): Doctrine\DBAL\Driver\PDOMySql\Driver->connect(Array, 'almeshal_pr', 'ibG@An]@s&2h', Array)
+#3 /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Connection.php(942): Doctrine\DBAL\Connection->connect()
+#4 /home1/almeshalights/public_html/src/PrestaShopBundle/Kernel/M in /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/AbstractMySQLDriver.php on line 115
+[10-Jun-2023 15:00:37 Asia/Dubai] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1203] User almeshal_pr already has more than 'max_user_connections' active connections in /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOConnection.php:43
+Stack trace:
+#0 /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOConnection.php(43): PDO->__construct('mysql:host=127....', 'almeshal_pr', 'ibG@An]@s&2h', Array)
+#1 /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOMySql/Driver.php(41): Doctrine\DBAL\Driver\PDOConnection->__construct('mysql:host=127....', 'almeshal_pr', 'ibG@An]@s&2h', Array)
+#2 /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Connection.php(360): Doctrine\DBAL\Driver\PDOMySql\Driver->connect(Array, 'almeshal_pr', 'ibG@An]@s&2h', Array)
+#3 /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Connection.php(942): Doctrine\DBAL\Connection->connect()
+#4 /home1/almeshalights/public_html/src/PrestaShopBundle/Kernel/M in /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/AbstractMySQLDriver.php on line 115
+[10-Jun-2023 15:00:37 Asia/Dubai] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1203] User almeshal_pr already has more than 'max_user_connections' active connections in /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOConnection.php:43
+Stack trace:
+#0 /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOConnection.php(43): PDO->__construct('mysql:host=127....', 'almeshal_pr', 'ibG@An]@s&2h', Array)
+#1 /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOMySql/Driver.php(41): Doctrine\DBAL\Driver\PDOConnection->__construct('mysql:host=127....', 'almeshal_pr', 'ibG@An]@s&2h', Array)
+#2 /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Connection.php(360): Doctrine\DBAL\Driver\PDOMySql\Driver->connect(Array, 'almeshal_pr', 'ibG@An]@s&2h', Array)
+#3 /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Connection.php(942): Doctrine\DBAL\Connection->connect()
+#4 /home1/almeshalights/public_html/src/PrestaShopBundle/Kernel/M in /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/AbstractMySQLDriver.php on line 115
+[10-Jun-2023 15:01:10 Asia/Dubai] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1203] User almeshal_pr already has more than 'max_user_connections' active connections in /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOConnection.php:43
+Stack trace:
+#0 /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOConnection.php(43): PDO->__construct('mysql:host=127....', 'almeshal_pr', 'ibG@An]@s&2h', Array)
+#1 /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOMySql/Driver.php(41): Doctrine\DBAL\Driver\PDOConnection->__construct('mysql:host=127....', 'almeshal_pr', 'ibG@An]@s&2h', Array)
+#2 /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Connection.php(360): Doctrine\DBAL\Driver\PDOMySql\Driver->connect(Array, 'almeshal_pr', 'ibG@An]@s&2h', Array)
+#3 /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Connection.php(942): Doctrine\DBAL\Connection->connect()
+#4 /home1/almeshalights/public_html/src/PrestaShopBundle/Kernel/M in /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/AbstractMySQLDriver.php on line 115
+[10-Jun-2023 15:01:10 Asia/Dubai] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1203] User almeshal_pr already has more than 'max_user_connections' active connections in /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOConnection.php:43
+Stack trace:
+#0 /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOConnection.php(43): PDO->__construct('mysql:host=127....', 'almeshal_pr', 'ibG@An]@s&2h', Array)
+#1 /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOMySql/Driver.php(41): Doctrine\DBAL\Driver\PDOConnection->__construct('mysql:host=127....', 'almeshal_pr', 'ibG@An]@s&2h', Array)
+#2 /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Connection.php(360): Doctrine\DBAL\Driver\PDOMySql\Driver->connect(Array, 'almeshal_pr', 'ibG@An]@s&2h', Array)
+#3 /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Connection.php(942): Doctrine\DBAL\Connection->connect()
+#4 /home1/almeshalights/public_html/src/PrestaShopBundle/Kernel/M in /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/AbstractMySQLDriver.php on line 115
+[10-Jun-2023 15:01:10 Asia/Dubai] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1203] User almeshal_pr already has more than 'max_user_connections' active connections in /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOConnection.php:43
+Stack trace:
+#0 /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOConnection.php(43): PDO->__construct('mysql:host=127....', 'almeshal_pr', 'ibG@An]@s&2h', Array)
+#1 /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOMySql/Driver.php(41): Doctrine\DBAL\Driver\PDOConnection->__construct('mysql:host=127....', 'almeshal_pr', 'ibG@An]@s&2h', Array)
+#2 /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Connection.php(360): Doctrine\DBAL\Driver\PDOMySql\Driver->connect(Array, 'almeshal_pr', 'ibG@An]@s&2h', Array)
+#3 /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Connection.php(942): Doctrine\DBAL\Connection->connect()
+#4 /home1/almeshalights/public_html/src/PrestaShopBundle/Kernel/M in /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/AbstractMySQLDriver.php on line 115
+[10-Jun-2023 15:01:15 Asia/Dubai] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1203] User almeshal_pr already has more than 'max_user_connections' active connections in /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOConnection.php:43
+Stack trace:
+#0 /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOConnection.php(43): PDO->__construct('mysql:host=127....', 'almeshal_pr', 'ibG@An]@s&2h', Array)
+#1 /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOMySql/Driver.php(41): Doctrine\DBAL\Driver\PDOConnection->__construct('mysql:host=127....', 'almeshal_pr', 'ibG@An]@s&2h', Array)
+#2 /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Connection.php(360): Doctrine\DBAL\Driver\PDOMySql\Driver->connect(Array, 'almeshal_pr', 'ibG@An]@s&2h', Array)
+#3 /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Connection.php(942): Doctrine\DBAL\Connection->connect()
+#4 /home1/almeshalights/public_html/src/PrestaShopBundle/Kernel/M in /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/AbstractMySQLDriver.php on line 115
+[10-Jun-2023 15:01:15 Asia/Dubai] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1203] User almeshal_pr already has more than 'max_user_connections' active connections in /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOConnection.php:43
+Stack trace:
+#0 /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOConnection.php(43): PDO->__construct('mysql:host=127....', 'almeshal_pr', 'ibG@An]@s&2h', Array)
+#1 /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOMySql/Driver.php(41): Doctrine\DBAL\Driver\PDOConnection->__construct('mysql:host=127....', 'almeshal_pr', 'ibG@An]@s&2h', Array)
+#2 /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Connection.php(360): Doctrine\DBAL\Driver\PDOMySql\Driver->connect(Array, 'almeshal_pr', 'ibG@An]@s&2h', Array)
+#3 /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Connection.php(942): Doctrine\DBAL\Connection->connect()
+#4 /home1/almeshalights/public_html/src/PrestaShopBundle/Kernel/M in /home1/almeshalights/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/AbstractMySQLDriver.php on line 115

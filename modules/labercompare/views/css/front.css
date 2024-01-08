@@ -1,0 +1,289 @@
+#mycompare table{
+
+}
+#mycompare .alert{
+	margin-bottom:0;	
+}
+#moda_compare .modal-dialog {
+	max-width:100%;
+    width: 1210px;
+}
+#mycompare .table-container{
+	overflow-x:auto;	
+}
+#moda_compare .success {
+	color:	#32cd32;
+}
+#moda_compare .warning {
+	color:	#ff8c00;
+}
+#moda_compare .error {
+	color:	#ff0000;
+}
+.comparison_header p:last-child{
+	margin-bottom:0;
+}
+#mycompare table th,#mycompare table td {
+    background: #fff none repeat scroll 0 0;
+    border: 1px solid #ccc;
+    font-weight: normal;
+    padding:15px;
+	width:230px;
+}
+#mycompare table .comparison_header td:first-child{
+    text-align: left;
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 14px;
+}
+#mycompare table td .star_content{
+	font-size:0;	
+}
+#mycompare table td.comparison_infos{
+	text-align:center;	
+	vertical-align:top;
+}
+.div.star.star_on,.star{
+	display:inline-block !important;
+	float:none !important;	
+}
+.item-inner-compare{
+	position:relative;
+	max-width:270px;
+	margin:0 auto;
+}
+.remove_to_compare{
+	font-size: 14px;
+	position: absolute;
+	right: -10px;
+	top: -10px;
+	background: #222;
+	width: 25px;
+	height: 25px;
+	border-radius: 100%;
+	color: #fff;
+	line-height: 23px;
+}
+#mycompare .product_name a {
+    width: 100%;
+	line-height:20px;
+}
+.item-inner-compare .left-product-compare{
+	border:1px solid #ccc;	
+	margin-bottom:15px;
+}
+.item-inner-compare .left-product-compare img{
+	max-width:100%;
+	height:auto;	
+}
+#mycompare .product-price-and-shipping {
+    float: left;
+    margin: 10px 0;
+    width: 100%;
+}
+#mycompare .product-price-and-shipping .price{
+	font-size:18px;
+	font-weight:600;
+}
+#mycompare .product-price-and-shipping .regular-price{
+	margin-left: 5px;
+	font-weight: 400;
+	text-decoration: line-through;
+	font-size: 14px;
+}
+#mycompare .description-short p{
+    float: left;
+    font-size: 13px;
+    line-height: 22px;
+    margin: 0 0 10px;
+    text-align: center;
+    width: 100%;
+}	
+.comment_compare.btn{
+	text-transform:capitalize;
+}
+#mycompare table td.comparison_infos.comparison_feature_even .comment_wrap{
+	position:relative;	
+}
+#mycompare table td.comparison_infos.comparison_feature_even .comment_wrap > div{
+    background: #fff none repeat scroll 0 0;
+    border: 1px solid #ccc;
+    left: 50%;
+    margin-bottom: 10px;
+    position: absolute;
+    bottom: 100%;
+    transform: translateX(-50%);
+	-ms-transform: translateX(-50%);
+	-webkit-transform: translateX(-50%);
+	min-width:200px;
+	box-shadow:1px 5px 10px rgba(0, 0, 0, 0.35);
+	z-index:2;
+}
+#mycompare table td.comparison_infos.comparison_feature_even .comment_wrap > div:before{
+	border: 1px solid #ccc;
+	border-bottom: none;
+	border-right: none;
+	background: #fff;
+	content: "";
+	height: 15px;
+	left: 50%;
+	margin-left: -5px;
+	position: absolute;
+	bottom: -8px;
+	transform: rotate(-135deg);
+	-ms-transform: rotate(-135deg);
+	-webkit-transform: rotate(-135deg);
+	width: 15px;
+}
+#mycompare table td.comparison_infos.comparison_feature_even .comment_wrap > div .comment{
+	padding:15px;
+	border-bottom:1px solid #ccc;
+}
+#mycompare table td.comparison_infos.comparison_feature_even .comment_wrap > div .comment:last-child{
+	border:none;	
+}
+#mycompare table td.comparison_infos.comparison_feature_even .comment_wrap > div .comment > div{
+	line-height:20px;	
+}
+.modal-header .close {
+    position: absolute;
+    top: -15px;
+    right: -15px;
+    background: #fff;
+    z-index: 999;
+    opacity: 1;
+    width: 30px;
+    height: 30px;
+    font-size: 24px;
+    line-height: 30px;
+    border-radius: 100%;
+
+}
+.modal-header{
+	padding: 15px;
+	border-bottom: 1px solid #e5e5e5;
+	background: #222;
+	color: #fff;
+	text-align: center;
+	text-transform: uppercase;
+	font-size: 16px;
+	font-weight: 600;
+	margin-bottom:15px;
+}
+.compare-table-actions{margin-bottom: 15px;}
+.compare-table-actions a{}
+
+
+
+
+
+/*
+ * Custom code goes here.
+ * A template should always ship with an empty custom.css
+ */
+.laber_alert_compare{
+	right: 0;
+	left: 0;
+	top: 0;
+	bottom: 0;
+	-webkit-transition: all 300ms ease;
+	-moz-transition: all 300ms ease;
+	-ms-transition: all 300ms ease;
+	-o-transition: all 300ms ease;
+	transition: all 300ms ease;
+}
+.laber_alert_compare.active{position: fixed;z-index:99999;padding-top:10%;}
+.laber_alert_compare .laber_add_to_compare{
+    display: none;
+
+}
+.laber_alert_compare .laber_add_to_compare .loader_content{
+	position: relative;
+	z-index: 99;
+	font-size: 14px;
+	line-height: 18px;
+	margin: 0 auto;
+	padding: 15px;
+	width: 305px;
+	border-radius: 3px;
+	background: #fff;
+	box-shadow:0 1px 12px rgba(0, 0, 0, 0.3);
+}
+.laber_alert_compare .laber_add_to_compare .thumbnail-container{
+	float: left;
+	display: inline;
+	margin-right: 15px;
+	border: 1px solid #ccc;
+	padding: 5px;
+	border-radius: 3px;
+	width: 90px;
+}
+.laber_alert_compare .laber_add_to_compare .thumbnail-container img{
+	width:100%;
+	height:auto;	
+}
+.laber_alert_compare .laber_add_to_compare h2.nameProduct{
+	font-size: 14px;
+	font-weight: 400;
+}
+.loader_content {
+	overflow:hidden;
+}
+.loader_content h4{
+	background: #222;
+	color: #fff;
+	line-height: 20px;
+	padding: 5px 15px;
+	position: relative;
+	width: 100%;
+	overflow: hidden;
+	font-weight: 600;
+	margin-bottom: 15px;
+	font-size: 14px;
+}
+.loader_content a.view-compare{
+	background: #222;
+	border-radius: 3px;
+	color: #fff;
+	display: inline-block;
+	font-size: 14px;
+	line-height: 38px;
+	padding: 0px 15px;
+}
+
+.loader_content  a.view-compare:hover{
+	background:#2fb5d2;
+}
+
+.loader_content .laber_button a:last-child{
+	margin-right:0;	
+}
+.laber_alert_compare > div:not(.loader) .loader_content{
+	display:none;
+}
+.laber_alert_compare .laber_add_to_compare.active{
+	display:block;
+}
+.laber_alert_compare .laber_add_to_compare.active:before{
+	content: '';
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	width: 100%;
+	height: 100%;
+	z-index: 9;
+	background: rgba(0,0,0,0.3);
+}
+.laber_alert_compare .alert_error .loader_content h4{
+	background: #f2dede;
+	color: #e17875;
+	font-weight: 400;
+	padding: 10px 15px;
+}
+
+a.button-action .addCompare,
+a.button-action .removeCompare{display:none;}
+a.js-compare-add .addCompare{display:inline-block;}
+a.js-compare-remove .removeCompare{display:inline-block;}
